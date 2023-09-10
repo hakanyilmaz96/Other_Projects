@@ -1,0 +1,36 @@
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.exe
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.deps.json
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.runtimeconfig.json
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.runtimeconfig.dev.json
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\ref\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\NDP_PROJE\bin\Debug\net5.0-windows\NDP_PROJE.pdb
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.Form.resources
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\ref\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.pdb
+C:\Users\Hakan\Desktop\NDP_PROJE\obj\Debug\net5.0-windows\NDP_PROJE.genruntimeconfig.cache
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.exe
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.deps.json
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.runtimeconfig.json
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.runtimeconfig.dev.json
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\ref\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\bin\Debug\net5.0-windows\NDP_PROJE.pdb
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.Form.resources
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\ref\NDP_PROJE.dll
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.pdb
+C:\Users\Hakan\Desktop\Ndp_Proje_G181210382\Mağaza Uygulaması\obj\Debug\net5.0-windows\NDP_PROJE.genruntimeconfig.cache
